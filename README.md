@@ -13,7 +13,7 @@
 - + Сделать кеш для для вывода средней оценки по предмету за пределами интерфейса `Examination`
 
 ## Описание ключевых файлов
-InMemoryExamination.java - реализация интерфейса по заданию
-InMemoryExaminationTest.java - тестирование методов основного интерфейса по заданию
-CachedInMemoryExamination.java - реализация класса для кэшированной выдачи средней оценки
-CachedInMemoryExaminationTest.java - тестирование метода кэшированной выдачи средней оценки
+- InMemoryExamination.java - реализация интерфейса по заданию
+- InMemoryExaminationTest.java - тестирование методов основного интерфейса по заданию
+- CachedInMemoryExamination.java - реализация класса для кэшированной выдачи средней оценки
+- CachedInMemoryExaminationTest.java - тестирование метода кэшированной выдачи средней оценки
